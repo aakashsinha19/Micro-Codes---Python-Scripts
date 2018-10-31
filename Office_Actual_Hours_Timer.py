@@ -6,7 +6,7 @@ Created on Thu Oct 25 22:06:19 2018
 """
 
 import time
-print("Timer to calculate actual ZS hours")
+print("Timer to calculate actual Office hours")
 
 start = input("Would you like to begin Timing? (y/n): ")
 if start == "y":
